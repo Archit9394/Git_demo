@@ -1,5 +1,6 @@
 x=20
 y=10
-res=x+y
+z=20
+res=x+y+z
 print(res)
 
